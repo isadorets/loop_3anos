@@ -4,7 +4,7 @@ function verificarTime() {
 
   while (continuarPerguntando) {
     
-    var respostaTime = prompt("complete a expressão: filho de peixe?");
+    var respostaTime = prompt("Complete a expressão: filho de peixe?");
 
     
     if (respostaTime.toLowerCase() === "peixinho é") {
